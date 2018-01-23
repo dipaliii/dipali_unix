@@ -1,0 +1,28 @@
+x to delete 
+u to undo
+ctr r to redo
+A to move the curser to the end 
+:wq for save and exit 
+:q! to trash all changes
+dw to move beginning
+dw to move 2 words forward
+0 to move start
+dd to delete the line 
+p to delete after curser
+r to replace the letter
+ce to change end of word
+g to move bottom
+gg start of the file
+% to find the matching
+/ backward search 
+? forward search
+:! to run a shell cmd 
+:w test 
+v start visual mode
+:r filename
+R to replace more character
+y to copy text using visual mode
+yw yank one word
+o open a line below the current lineo open a line above the curser
+a inserts text after the cursor
+
